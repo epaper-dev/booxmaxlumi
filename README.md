@@ -1,6 +1,6 @@
 # BOOX Max Lumi
 
-English · [Deutsch](#deutsch) · [Español](#español)
+English · [Deutsch](#deutsch) · [Español](#español) · [Русский](#русский)
 
 ## [→ Visit the booxmaxlumi organization](https://github.com/booxmaxlumi)
 
@@ -19,3 +19,9 @@ Die Projekte und Repositories findest du in der GitHub-Organisation **[booxmaxlu
 ### [→ Ir a la organización booxmaxlumi](https://github.com/booxmaxlumi)
 
 Los proyectos y repositorios se encuentran en la organización de GitHub **[booxmaxlumi](https://github.com/booxmaxlumi)**. Este repositorio sirve únicamente como enlace y no contiene una copia de los proyectos.
+
+## Русский
+
+### [→ Перейти к организации booxmaxlumi](https://github.com/booxmaxlumi)
+
+Проекты и репозитории находятся в организации GitHub **[booxmaxlumi](https://github.com/booxmaxlumi)**. Этот репозиторий служит только ссылкой и не содержит копий проектов.
